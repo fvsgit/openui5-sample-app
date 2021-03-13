@@ -1,0 +1,9 @@
+_schema-version: 2.1.0
+ID: test1
+version: 1.0.0
+description: Sample app
+provider: SAP Sample generator
+modules:
+  - name: piper.node.hello.world
+    type: npm
+    path: .
