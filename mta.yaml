@@ -5,5 +5,5 @@ description: Sample app
 provider: SAP Sample generator
 modules:
   - name: piper.node.hello.world
-    type: npm
+    type: html5
     path: .
